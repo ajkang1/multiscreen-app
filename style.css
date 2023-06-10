@@ -1,3 +1,28 @@
-body {
-
+body{
+  background-color: #BFD8BD;
+}
+h1{
+  color: #2A2C24;
+  font-size: 250%;
+  letter-spacing: 1px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 25px;
+  color: #000000;
+  font-family: "Monaco", Monospace;
+  font-weight: bold;
+  text-decoration: none;
+  background: #384D48;
+}
+li a:hover{
+ background-color: white; 
 }
